@@ -1,0 +1,41 @@
+_repo: The-silver-blade-The-true-chronicle-of-a-double-mystery_69106
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wenzell, A. B. (Albert Beck)
+    aliases:
+    - Wenzell, Albert B. (Albert Beck)
+    - Wenzel, A. B. (Albert Beck)
+    birthdate: 1864
+    deathdate: 1917
+    gutenberg_agent_id: '7859'
+    url: http://www.gutenberg.org/2009/agents/7859
+creator:
+  author:
+    agent_name: Walk, Charles Edmonds
+    birthdate: 1875
+    deathdate: 1942
+    gutenberg_agent_id: '25182'
+    url: http://www.gutenberg.org/2009/agents/25182
+description: ''
+gutenberg_issued: '2022-10-07'
+identifiers:
+  gutenberg: '69106'
+  lccn: 08009527
+language: en
+pgterms:marc904: https://archive.org/details/silverbladetruec00walkiala
+pgterms:marc905: 20220916140712walk
+pgterms:marc906: '1908'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: United States :A. L. Burt Company,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Murder -- Investigation -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'The silver blade: The true chronicle of a double mystery'
+url: http://www.gutenberg.org/ebooks/69106
