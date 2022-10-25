@@ -10,6 +10,9 @@ contributor:
     deathdate: 1917
     gutenberg_agent_id: '7859'
     url: http://www.gutenberg.org/2009/agents/7859
+covers:
+- cover_type: archival
+  image_path: 69106-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Walk, Charles Edmonds
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '25182'
     url: http://www.gutenberg.org/2009/agents/25182
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69106#The-silver-blade-The-true-chronicle-of-a-double-mystery
 gutenberg_issued: '2022-10-07'
 identifiers:
   gutenberg: '69106'
